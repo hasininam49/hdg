@@ -1,0 +1,90 @@
+#home {
+    background-color: #f9ff82;
+    text-align: center;
+    margin:0px;
+    border: double;
+    padding: 30px;
+    border-width: 20px;
+}
+
+h1 {
+    font-family: 'Fredoka One', cursive;
+    font-size: 60px;
+    font-weight: 100;
+    text-align: center;
+}
+
+#logo {
+    margin-top: -30px;
+    text-align: center;
+    margin-right: 0px;
+}
+
+h3 {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.navbar-nav {
+    background-color: grey;
+    z-index: 10;
+    position: absolute;
+
+}
+
+.link {
+    font-family: 'Bebas Neue', cursive;
+    text-decoration: none;
+    cursor: pointer;
+    margin-right: 50px;
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    float: left;
+    list-style-type: none;
+    display: inline;
+}
+
+.link:hover {
+    font-size: 25px;
+}
+
+a:hover {
+    font-size: 25px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    font-family: 'Bebas Neue', cursive;
+    text-decoration: none;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    display: inline;
+
+}
+
+#Abstract {
+    font-size: 45px;
+    font-weight: 300;
+}
+
+#About {
+    text-align: center;
+    background-color: #ffe6ff;
+}
+
+p{
+ font-family: 'Courgette';
+    font-size:20px;
+    font-weight: 100;
+    color:#4f4f4f;
+}
+.navbar-inverse{
+    width:748px;
+    text-align: center;
+    background-color:#3d3d3d;
+}
